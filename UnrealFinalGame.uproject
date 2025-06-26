@@ -2,5 +2,16 @@
 	"FileVersion": 3,
 	"EngineAssociation": "4.27",
 	"Category": "",
-	"Description": ""
+	"Description": "",
+	"Plugins": [
+		{
+			"Name": "WaterPhysics",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/2d8710643bcf4e2b94a9154d0732b4af"
+		},
+		{
+			"Name": "Water",
+			"Enabled": true
+		}
+	]
 }
